@@ -32,24 +32,24 @@ artistas-musicas/
    
 2. Acesse a pasta do projeto:
 
-cd artistas-musicas
+- cd artistas-musicas
 
 3. Configure o banco de dados PostgreSQL:
 
-Crie um banco chamado artistas_musicas no PostgreSQL.
+- Crie um banco chamado artistas_musicas no PostgreSQL.
 
 No arquivo application.properties, configure:
 
-spring.datasource.url=jdbc:postgresql://localhost:5432/artistas_musicas
-spring.datasource.username=SEU_USUARIO
-spring.datasource.password=SUA_SENHA
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+- spring.datasource.url=jdbc:postgresql://localhost:5432/artistas_musicas
+- spring.datasource.username=SEU_USUARIO
+- spring.datasource.password=SUA_SENHA
+- spring.jpa.hibernate.ddl-auto=update
+- spring.jpa.show-sql=true
+- spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
 
 4. Compile e execute o projeto:
 
-mvn spring-boot:run
+- mvn spring-boot:run
 
 5. Siga as instruções exibidas no console para usar o menu.
 
