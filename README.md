@@ -18,8 +18,8 @@ Este projeto é uma aplicação Java que permite cadastrar artistas e músicas, 
 5. Pesquisar dados sobre um artista usando IA
 
 ## 📂 Estrutura do Projeto
-artistas-musicas/
-├── src/main/java/...
+- artistas-musicas/
+-├── src/main/java/...
 -├── src/main/resources/
 - │   ├── application.properties
 - │   └── ...
