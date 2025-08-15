@@ -21,10 +21,9 @@ Este projeto é uma aplicação Java que permite cadastrar artistas e músicas, 
 artistas-musicas/
 ├── src/main/java/...
 ├── src/main/resources/
-│ ├── application.properties
-│ └── ...
+│   ├── application.properties
+│   └── ...
 └── pom.xml
-
 
 ## 🛠 Como Executar o Projeto
 1. **Clone este repositório**:
