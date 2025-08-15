@@ -56,9 +56,9 @@ mvn spring-boot:run
 💡 Exemplo de Uso
 
 ----- MENU -----
-1 - Cadastrar artista
-2 - Cadastrar música
-3 - Listar músicas
-4 - Buscar músicas por artista
-5 - Pesquisar dados sobre um artista
-Escolha uma opção:
+- 1 - Cadastrar artista
+- 2 - Cadastrar música
+- 3 - Listar músicas
+- 4 - Buscar músicas por artista
+- 5 - Pesquisar dados sobre um artista
+- Escolha uma opção:
